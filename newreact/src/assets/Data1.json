@@ -1,0 +1,9 @@
+{
+    "products":[{
+        "name":"pants",
+        "brand":"levis"
+    },{
+        "name":"shirt",
+        "brand":"peter england"
+    }]
+}
